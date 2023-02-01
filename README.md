@@ -17,7 +17,14 @@ This set-up is a little confusing for those who have never used GitHub before, s
 
 To edit the constitution, you need to edit your own copy, and then send over your changes for us (admins) to review!
 
-1. If you can see a message saying 'This fork is ___ commits behind ______' then click the text to pull changes. If it says that you're up-to-date, great!
+1. If you can see a message saying 'This fork is ___ commits behind EdinburghUniversityCurlingClub:main.' then press Sync Fork -> Update Changes to pull changes. If it says that you're up-to-date, great!
 2. Click on the constitution.md file, and then press the pencil icon in the top-right. This is Edit Mode :). It is written in a syntax called Markdown. Basically you can just type normally, but you can style your text easily (try putting a # or a * in front of a word...).
 2. Make any changes you want to the file. To save your changes, go to the bottom of the page, and fill in the box. Just write a few words stating what you did (i.e. Update Treasurer role) and press Commit Changes.
 3. Feel free to keep editing and saving until you want to send it to us!
+
+## Sending a Commit
+
+A commit is a set of changes you've made to files, that can be passed to us to add to the official copy. On the repo home page (where you see the names of all the files), it should say that you are ahead of EdinburghUniversityCurlingClub:main.
+1. Press the 'commit ahead' text and then press Create Pull Request (and then again). 
+2. That's it - we've got your commit :)
+
