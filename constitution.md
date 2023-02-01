@@ -1,6 +1,6 @@
 # Edinburgh University Curling Club Constitution #
 
-## 1. NAME ##
+## 1. NAME
 
 1.1 The name of the club shall be the Edinburgh University Curling Club.
 
