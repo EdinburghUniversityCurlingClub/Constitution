@@ -12,7 +12,7 @@
 
 ## 3. MEMBERSHIP 
 
-3.1 The qualification for membership shall be owning membership of the Edinburgh University Curling Club. 
+3.1 The qualification for membership shall be owning membership of Edinburgh University Sports Union. 
 
 3.2 All members of the club shall become members of the Edinburgh Curling Club. 
 
