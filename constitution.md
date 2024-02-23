@@ -12,7 +12,7 @@
 
 ## 3. MEMBERSHIP 
 
-3.1 The qualification for membership shall be owning membership of Edinburgh University Sports Union. 
+3.1 The qualification for membership shall be owning membership of the Edinburgh University Sports Union. 
 
 3.2 All members of the club shall become members of the Edinburgh Curling Club. 
 
@@ -22,7 +22,7 @@
 
 4.1 The club shall fall under the jurisdiction of the Edinburgh University Sports Union (EUSU). 
 
-4.2 In the event of a conflict between this constitution and that of EUSU or its byelaws the provisions of the EUSU constitution and byelaws shall prevail. 
+4.2 In the event of a conflict between this constitution and that of EUSU or its bye-laws the provisions of the EUSU constitution and bye-laws shall prevail. 
 
 4.3 The committee shall send a representative to each meeting of the General Committee of EUSU. 
 
@@ -30,7 +30,7 @@
 
 5.1 The Annual General Meeting of the club shall be held by the official EUSU deadline of each year on a date announced by the committee at least two weeks in advance.
 
-5.2 A Emergency General Meeting (EGM) of the club shall be convened in the event of the committee receiving, in writing, a signed petition from five members detailing the content of the proposed meeting. 
+5.2 An emergency General Meeting (EGM) of the club shall be convened in the event of the committee receiving, in writing, a signed petition from five members detailing the content of the proposed meeting. 
 
 5.3 The chair of any club meeting shall be taken by the President. In failing so, the Vice-President shall chair.
 
@@ -194,7 +194,7 @@
 
 9.1.8.4 Attend EUSU training sessions in relation to welfare and inclusion issues, where possible.
 
-9.1.9 The Wellbeing and Inclusions Officer shall:
+9.1.9 The Health and safety Officer shall:
 
 9.1.9.1 Be a designated First-Aider and assume responsibility when injuries occur. 
 
